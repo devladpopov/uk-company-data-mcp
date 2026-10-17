@@ -1,7 +1,7 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.devladpopov/uk-company-data",
-  "description": "UK company register and 35M Companies House iXBRL accounts since 2008: lookup, search, compare, alerts.",
+  "description": "Every UK company plus 35M Companies House accounts since 2008: lookup, search, alerts.",
   "repository": { "url": "https://github.com/devladpopov/uk-company-data-mcp", "source": "github" },
   "version": "0.2.0",
   "websiteUrl": "https://data.globalmindsetmarketing.co.uk/docs",
